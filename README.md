@@ -1,6 +1,6 @@
 ## 👋 Olá me chamo Caroline!
 ### 🚀 Sobre mim -
-🎓 **Formação:** Técnica em Informática e cursando superior em Ciência da Computação 
+🎓 **Formação:** Técnica em Informática e cursando superior em Ciência da Computação <br>
 💻 **O que faço:** Trainee de Desenvolvimento de Software.
 
 ## 💡 Minhas habilidades 
